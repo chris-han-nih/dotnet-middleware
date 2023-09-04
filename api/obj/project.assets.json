@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/dave.han/.nuget/packages/": {}
+    "/Users/hannamil/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dave.han/NIH/middleware/api/api.csproj",
+      "projectUniqueName": "/Users/hannamil/Workspace/study/dotnet-middleware/api/api.csproj",
       "projectName": "api",
-      "projectPath": "/Users/dave.han/NIH/middleware/api/api.csproj",
-      "packagesPath": "/Users/dave.han/.nuget/packages/",
-      "outputPath": "/Users/dave.han/NIH/middleware/api/obj/",
+      "projectPath": "/Users/hannamil/Workspace/study/dotnet-middleware/api/api.csproj",
+      "packagesPath": "/Users/hannamil/.nuget/packages/",
+      "outputPath": "/Users/hannamil/Workspace/study/dotnet-middleware/api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dave.han/.nuget/NuGet/NuGet.Config"
+        "/Users/hannamil/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -524,7 +524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
